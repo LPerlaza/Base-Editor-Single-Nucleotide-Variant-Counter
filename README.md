@@ -1,4 +1,4 @@
-# Scanning-Mutagenesis-Single-Nucleotide-Variant-Counter
+# Scanning Mutagenesis SNV Counter
 
 Count single nucleotide variant (SNV) in vector sequencing of genes of interest
 
